@@ -1,0 +1,9 @@
+body{
+    text-align:center;
+}
+.theToy{
+   color: lightgreen; 
+   border: 1px solid green;
+   width: 30%;
+   margin: auto;
+}

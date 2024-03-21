@@ -1,0 +1,29 @@
+body{
+    direction: rtl;
+}
+.gym input{
+    color:red;
+   
+}
+.gym p{
+    color:red;
+    
+}
+.classRe input {
+    color: green;
+   
+
+}
+.classRe p {
+    color: green;
+  
+
+}
+.classSi input{
+    color: blue;
+   
+}
+.classSi p{
+    color: blue;
+   
+}

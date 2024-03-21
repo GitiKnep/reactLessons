@@ -1,0 +1,40 @@
+.enter {
+    position: relative;
+    margin: auto;
+    top: 2vh;
+    width: 26vw;
+    padding: 1vw;
+    height: fit-content;
+    background-color: white;
+    border-radius: 15px;
+    text-align: center;
+}
+
+fieldset {
+    border: 2px solid #1976D2;
+    border-radius: 8px;
+}
+legend {
+    font-size: 2.4vw;
+    color: #1976D2;
+}
+.le{
+    font-size: 1.4vw;
+}
+.cards{
+    position: relative;
+    left: 20px;
+    right: 20px;
+    margin: 3vw;
+    float: left;
+    width: 250px;
+  
+}
+.lin{
+    text-decoration: none;
+    color: #1976D2;
+    position: relative;
+}
+h5{
+    color:#1976D2;
+}
